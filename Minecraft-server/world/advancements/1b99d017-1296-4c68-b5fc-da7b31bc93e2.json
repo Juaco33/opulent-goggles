@@ -1,0 +1,429 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2024-03-05 02:09:47 +0000",
+      "minecraft:eroded_badlands": "2024-03-04 03:41:30 +0000",
+      "quark:glimmering_weald": "2024-03-05 03:19:51 +0000",
+      "minecraft:cherry_grove": "2024-03-14 05:15:37 +0000",
+      "minecraft:sunflower_plains": "2024-03-14 05:17:29 +0000",
+      "minecraft:birch_forest": "2024-03-04 02:57:57 +0000",
+      "minecraft:windswept_hills": "2024-03-14 05:03:04 +0000",
+      "minecraft:bamboo_jungle": "2024-03-04 03:13:11 +0000",
+      "minecraft:wooded_badlands": "2024-03-04 03:13:26 +0000",
+      "minecraft:badlands": "2024-03-04 03:34:38 +0000",
+      "minecraft:beach": "2024-03-06 02:30:52 +0000",
+      "minecraft:dark_forest": "2024-03-06 02:29:29 +0000",
+      "minecraft:sparse_jungle": "2024-03-04 03:12:25 +0000",
+      "minecraft:river": "2024-03-04 03:07:52 +0000",
+      "minecraft:lukewarm_ocean": "2024-03-06 02:32:05 +0000",
+      "minecraft:dripstone_caves": "2024-03-04 03:16:40 +0000",
+      "minecraft:swamp": "2024-03-14 05:04:33 +0000",
+      "minecraft:forest": "2024-03-04 03:06:37 +0000",
+      "minecraft:desert": "2024-03-04 03:45:45 +0000",
+      "minecraft:windswept_forest": "2024-03-14 05:02:48 +0000",
+      "minecraft:jungle": "2024-03-04 03:02:34 +0000",
+      "minecraft:ocean": "2024-03-06 02:30:51 +0000",
+      "minecraft:warm_ocean": "2024-03-04 03:45:51 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-03-06 02:35:35 +0000",
+      "minecraft:flower_forest": "2024-03-05 04:15:22 +0000",
+      "minecraft:old_growth_birch_forest": "2024-03-04 04:18:53 +0000",
+      "minecraft:deep_dark": "2024-03-05 02:09:51 +0000",
+      "minecraft:meadow": "2024-03-04 04:31:46 +0000",
+      "minecraft:windswept_gravelly_hills": "2024-03-14 05:04:16 +0000",
+      "minecraft:savanna": "2024-03-04 03:08:08 +0000",
+      "minecraft:plains": "2024-03-04 03:08:07 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2024-03-04 02:57:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-03-04 02:58:37 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2024-03-04 02:58:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2024-03-04 02:59:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2024-03-04 02:59:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-03-04 02:59:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-03-04 03:00:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:blaze": "2024-03-06 02:04:38 +0000",
+      "minecraft:skeleton": "2024-03-04 04:43:23 +0000",
+      "minecraft:spider": "2024-03-04 04:41:44 +0000",
+      "minecraft:creeper": "2024-03-05 00:16:12 +0000",
+      "quark:forgotten": "2024-03-06 03:17:28 +0000",
+      "minecraft:witch": "2024-03-05 02:56:28 +0000",
+      "minecraft:wither_skeleton": "2024-03-06 02:04:30 +0000",
+      "minecraft:husk": "2024-03-04 04:01:49 +0000",
+      "minecraft:cave_spider": "2024-03-05 03:14:16 +0000",
+      "minecraft:piglin": "2024-03-06 01:51:53 +0000",
+      "minecraft:enderman": "2024-03-05 05:39:32 +0000",
+      "minecraft:zombie": "2024-03-04 03:00:12 +0000",
+      "quark:foxhound": "2024-03-05 05:52:06 +0000",
+      "minecraft:drowned": "2024-03-04 03:40:18 +0000",
+      "minecraft:zombie_villager": "2024-03-05 04:37:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-03-04 03:00:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2024-03-04 03:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-03-04 03:05:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2024-03-05 04:32:55 +0000",
+      "cooked_mutton": "2024-03-05 00:13:36 +0000",
+      "apple": "2024-03-05 04:27:48 +0000",
+      "mutton": "2024-03-05 00:45:33 +0000",
+      "bread": "2024-03-04 04:45:56 +0000",
+      "golden_apple": "2024-03-05 04:29:34 +0000",
+      "glow_berries": "2024-03-05 05:19:20 +0000",
+      "melon_slice": "2024-03-04 03:06:09 +0000",
+      "enchanted_golden_apple": "2024-03-05 01:49:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-03-04 03:13:53 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-03-04 03:16:01 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-03-04 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2024-03-04 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2024-03-04 03:20:42 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2024-03-04 03:38:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-03-04 03:42:49 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-03-04 03:50:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-03-04 03:50:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-03-04 03:51:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-03-04 03:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-03-04 04:04:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-03-04 04:04:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2024-03-04 04:19:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-03-04 04:19:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-03-04 04:20:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-03-04 04:46:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-03-04 04:54:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-03-04 05:21:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-03-05 00:16:08 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2024-03-05 00:40:43 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2024-03-05 00:40:43 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_painting": {
+    "criteria": {
+      "cave_painting": "2024-03-05 00:52:47 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_vallumraptor": "2024-03-05 00:53:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-03-05 01:08:37 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_grottoceratops": "2024-03-05 01:11:23 +0000"
+    },
+    "done": true
+  },
+  "quark:get_diamond_heart": {
+    "criteria": {
+      "get_diamond_heart": "2024-03-05 01:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-03-05 01:27:11 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_subterranodon": {
+    "criteria": {
+      "killed": "2024-03-05 01:27:11 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/primitive_club": {
+    "criteria": {
+      "limestone": "2024-03-05 01:59:37 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tree_star": {
+    "criteria": {
+      "tree_star": "2024-03-05 02:05:03 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cooked_dinosaur_chop": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2024-03-05 02:19:10 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/dinosaur_nugget": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2024-03-05 02:19:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-03-05 02:56:28 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by_head": "2024-03-05 03:11:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-03-05 04:01:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-03-05 04:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-03-05 04:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-03-06 01:51:04 +0000",
+      "minecraft:nether_wastes": "2024-03-05 04:08:37 +0000",
+      "minecraft:basalt_deltas": "2024-03-06 02:06:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-03-06 02:02:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-03-06 02:05:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-03-06 02:07:32 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2024-03-06 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed_by": "2024-03-06 03:00:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-03-06 03:17:24 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2024-03-06 03:26:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-03-06 04:36:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2024-03-06 05:25:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-03-14 04:14:01 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
